@@ -1,0 +1,6 @@
+[submodule "alloc-test"]
+	path = alloc-test
+	url = https://github.com/node-dot-cpp/alloc-test
+[submodule "stress-ng"]
+	path = stress-ng
+	url = https://github.com/ColinIanKing/stress-ng

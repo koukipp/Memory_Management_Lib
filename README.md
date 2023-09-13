@@ -8,6 +8,12 @@ Made for the Advanced Topics in Systems Software course of University of Thessal
 
 ## Instructions:
 
+Initialize the alloc_test and stress-ng submodules using:
+```
+git submodule init
+git submodule update
+```
+
 To compile shared libraries and create test executables use:
 ```
 make
